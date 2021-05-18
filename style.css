@@ -1,0 +1,10 @@
+.button {
+    display: block;
+    margin: 0 auto;
+    width: max-content;
+    background-color: aqua;
+    color: blueviolet;
+    font-size: medium;
+
+  }
+  
